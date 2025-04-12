@@ -6,7 +6,7 @@
 /server/.env
 /.pnp
 .pnp.js
-/server
+
 /client
 # testing
 /coverage
